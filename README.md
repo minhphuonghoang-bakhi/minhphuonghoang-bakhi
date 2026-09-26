@@ -1,7 +1,9 @@
 # Hi, I'm Minh Phuong Hoang 👋
 
 🎓 B.Sc. Applied Computer Science (Angewandte Informatik) student at **Hochschule Mainz**, Germany
+
 🎯 Building toward a career in **Backend Development & DevOps**
+
 🌍 Based in Mainz, Germany | Speak German, English, Vietnamese
 
 ---
