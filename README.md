@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Minh Phuong Hoang 👋
 
-<!--
-**minhphuonghoang-bakhi/minhphuonghoang-bakhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Applied Computer Science (Angewandte Informatik) student at **Hochschule Mainz**, Germany
+🎯 Building toward a career in **Backend Development & DevOps**
+🌍 Based in Mainz, Germany | Speak German, English, Vietnamese
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm a Computer Science student currently following a structured self-study path in backend development and DevOps, alongside my coursework. My goal is to become a **Backend / DevOps Engineer** in the German tech market, with a focus on building scalable, well-tested, containerized applications and automating deployment pipelines.
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎯 Career Goal
+Seeking an entry-level or working-student position as a **Backend Developer** or **DevOps Engineer**, where I can apply and grow my skills in Java/Spring ecosystem, containerization, and cloud infrastructure.
+
+### 📫 Contact
+- Email: phuonghoang1312.stk@gmail.com
+- LinkedIn: *(coming soon)*
+
+---
+📌 *Check out my pinned repositories below for projects showcasing backend work.*
