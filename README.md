@@ -21,7 +21,7 @@ Seeking an entry-level or working-student position as a **Backend Developer** or
 
 ### 📫 Contact
 - Email: phuonghoang1312.stk@gmail.com
-- LinkedIn: *(coming soon)*
+- LinkedIn: www.linkedin.com/in/minh-phuong-hoang-3ba33943a
 
 ---
 📌 *Check out my pinned repositories below for projects showcasing backend work.*
