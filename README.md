@@ -1,13 +1,13 @@
 # Hi, I'm Minh Phuong Hoang 👋
 
-🎓 B.Sc. Applied Computer Science (Angewandte Informatik) at **Hochschule Mainz** · GPA 1.3 · Deutschlandstipendium 2026/27
-🎯 Working toward **Backend Development & DevOps** – currently looking for a **Werkstudent** position
+🎓 B.Sc. Applied Computer Science (Angewandte Informatik) at **Hochschule Mainz** 
+🎯 Working toward **Backend Development & DevOps**
 🌍 Based in Mainz, Germany · German (C1) · English (C1) · Vietnamese (native)
 
 ---
 
 ### 🚀 About Me
-I'm a computer science student who likes building things that actually run: REST APIs, databases, tests and the setup around them.
+I'm a computer science student who likes building things that actually solve the real world problem.
 Most of my work so far is in **Java** and **PHP** with **PostgreSQL/MySQL**. Right now I'm learning **Spring Boot** and test automation, and I'm moving step by step toward Docker, CI/CD and cloud.
 
 ### 🛠️ Tech Stack
@@ -38,26 +38,6 @@ Most of my work so far is in **Java** and **PHP** with **PostgreSQL/MySQL**. Rig
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
-### 📂 Projects
-| Project | What it is | Tech |
-|---|---|---|
-| **Reading List API** | REST API for personal reading lists: MVC layers, dependency injection, token auth, hashed passwords/tokens, per-user access checks, transactions. Frontend in progress. | PHP 8, MySQL, Docker, Nginx, PHPUnit |
-| **Study Card Application** | Desktop app for digital learning with flashcards (university project) | Java, JavaFX, PostgreSQL |
-| **Star Battle Go Game** | Puzzle game with an automatic solver, board validation and statistics | Java |
-| **Unfalllens** *(team project, private repo)* | Dashboard showing accident data on a map with filters, KPIs and statistics. Built in a team of three with Scrum, Jira and a Git workflow. | Web, Git, Jira |
-
-### 🌱 Currently Learning
-- **Spring Boot**: building REST APIs the Java way
-- **Test automation** with Playwright, Postman and JUnit
-- **TypeScript** (university course Programmieren 3)
-- Frontend basics (HTML, CSS, JavaScript) by building a UI for my Reading List API
-
-### 🧭 Next Up
-A full backend + DevOps portfolio project with an economics angle (invoicing & payments), using Spring Boot, PostgreSQL, Docker, CI/CD with GitHub Actions and deployment to a Linux server.
-
-### 💼 Experience
-**Student Assistant (Studentische Hilfskraft), Alumnity e.V.** – Mainz · since 03/2026
-Maintaining the association's software and member data, Excel reports, user support
 
 ### 📫 Contact
 - Email: phuonghoang1312.stk@gmail.com
